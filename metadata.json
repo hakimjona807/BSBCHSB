@@ -1,0 +1,6 @@
+{
+  "name": "BSB & CHSB Portal - O'zbekiston Maktab Baholash Tizimi",
+  "description": "5–11-sinflar uchun BSB va CHSB fan materiallari, choraklik summativ baholash qo'llanmalari va topshiriqlari portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
